@@ -1,0 +1,7 @@
+homepage:
+  menu:
+    replace:
+
+      - desc: Solicitudes
+        screenName: Solicitudes
+        img: "/src/client/assets/logo.jpg"
